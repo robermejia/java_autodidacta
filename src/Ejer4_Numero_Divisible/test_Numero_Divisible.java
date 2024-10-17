@@ -1,4 +1,4 @@
-package Ejercicio4_Numero_Divisible;
+package Ejer4_Numero_Divisible;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package Ejercicio5_Factorial;
+package Ejer5_Factorial;
 
 public class Factorial {
     

@@ -1,4 +1,4 @@
-package Ejercicio2_Numero_Mayor;
+package Ejer2_Numero_Mayor;
 
 public class Numero_Mayor {
     int num1;

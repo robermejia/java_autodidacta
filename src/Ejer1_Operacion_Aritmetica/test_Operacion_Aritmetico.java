@@ -1,4 +1,4 @@
-package Ejercicio1_Operacion_Aritmetica;
+package Ejer1_Operacion_Aritmetica;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package Ejercicio3_Saludar;
+package Ejer3_Saludar;
 
 import javax.swing.JOptionPane;
 
